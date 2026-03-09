@@ -1,0 +1,86 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image: url("1225.jpg");
+    margin:0;
+    text-align:center;
+
+}
+
+
+header{
+    background:#F3E0F7;
+    color:black;
+    padding:25px;
+}
+
+.tagline{
+    font-size:20px;
+}
+
+.profile{
+    margin-top:25px;
+}
+
+.profile img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border:5px solid white;
+    box-shadow:0 6px 15px rgba(0,0,0,0.3);
+}
+
+.card{
+    background:#F3E0F7;
+    width:60%;
+    margin:20px auto;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+
+}
+
+
+ul,ol{
+    text-align:left;
+    display:inline-block;
+}
+
+
+a{
+    margin: 20px 0;
+    padding: 20px;
+    border-radius:10px;
+    color:black;
+    
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:10px;
+    background:#FFEDD1;
+}
+
+th{
+    background:#F3E0F7;
+    color:black;
+}
+
+th,td{
+    border:1px solid #aaa;
+    padding:10px;
+}
+
+
+#goal{
+    width:60%;
+    margin:30px auto;
+    padding:20px;
+    border:1px solid #aaa;
+    background:#F3E0F7;
+}
