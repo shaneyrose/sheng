@@ -23,14 +23,14 @@ display:inline-block;
 margin:5px;
 padding:8px 16px;
 text-decoration:none;
-color:#ff4da6;
-border:2px solid #ff4da6;
+color:#F3E0F7;
+border:2px solid #F3E0F7;
 border-radius:20px;
 font-weight:bold;
 }
 
 nav a:hover{
-background-color:#ff4da6;
+background-color:#F3E0F7;
 color:white;
 }
 .tagline{
@@ -104,4 +104,5 @@ th,td{
     border:1px solid #aaa;
     background:#F3E0F7;
 }
+
 
