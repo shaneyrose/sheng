@@ -83,7 +83,7 @@ table{
     width:100%;
     border-collapse:collapse;
     margin-top:10px;
-    background:#FFEDD1;
+    background:#F3E0F7;
 }
 
 th{
@@ -104,5 +104,6 @@ th,td{
     border:1px solid #aaa;
     background:#F3E0F7;
 }
+
 
 
