@@ -12,7 +12,27 @@ header{
     color:black;
     padding:25px;
 }
+nav{
+text-align:center;
+background-color:white;
+padding:15px;
+}
 
+nav a{
+display:inline-block;
+margin:5px;
+padding:8px 16px;
+text-decoration:none;
+color:#ff4da6;
+border:2px solid #ff4da6;
+border-radius:20px;
+font-weight:bold;
+}
+
+nav a:hover{
+background-color:#ff4da6;
+color:white;
+}
 .tagline{
     font-size:20px;
 }
@@ -84,3 +104,4 @@ th,td{
     border:1px solid #aaa;
     background:#F3E0F7;
 }
+
